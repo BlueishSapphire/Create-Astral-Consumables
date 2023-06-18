@@ -1,0 +1,15 @@
+{
+  "item.astral_consumables.recall": "Magic Mirror",
+  "effect.astral_consumables.bouncy": "Bouncy",
+  "effect.astral_consumables.low_g": "Low Gravity",
+  "effect.astral_consumables.sticky_hands": "Sticky Hands",
+  "item.minecraft.potion.effect.bouncy": "Bouncy Potion",
+  "item.minecraft.splash_potion.effect.bouncy": "Splash Potion of Bouncy",
+  "item.minecraft.lingering_potion.effect.bouncy": "Lingering Potion of Bouncy",
+  "item.minecraft.potion.effect.low_g": "Low Gravity Potion",
+  "item.minecraft.splash_potion.effect.low_g": "Splash Potion of Low Gravity",
+  "item.minecraft.lingering_potion.effect.low_g": "Lingering Potion of Low Gravity",
+  "item.minecraft.potion.effect.sticky_hands": "Sticky Hands Potion",
+  "item.minecraft.splash_potion.effect.sticky_hands": "Splash Potion of Sticky Hands",
+  "item.minecraft.lingering_potion.effect.sticky_hands": "Lingering Potion of Sticky Hands"
+}
